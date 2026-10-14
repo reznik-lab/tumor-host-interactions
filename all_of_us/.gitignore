@@ -1,0 +1,15 @@
+# No data ever leaves the Workbench in this repository.
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.rds
+*.pkl
+*.h5
+*.xlsx
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
